@@ -4,7 +4,7 @@ This is a **showcase** repository for a **baking-related eCommerce website** bui
 
 ## 🎥 Demo  
 👉 Click the link to watch the demo video!  
-[![Watch the Demo](https://img.youtube.com/vi/dS-20MD4yZ0/0.jpg)](https://youtu.be/Eq4bdmV_SoQ)
+[![Watch the Demo](https://img.youtube.com/vi/dS-20MD4yZ0/0.jpg)](https://youtu.be/OTcH1xGFNPo)
 
 
 
